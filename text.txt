@@ -1,0 +1,6 @@
+Hello from line 1
+This is line 2
+Offer: 50% off today!
+Join our telegram: https://t.me/YourBot
+Visit our website for deals
+Have a great day!
